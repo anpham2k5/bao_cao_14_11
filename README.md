@@ -5,7 +5,7 @@
 ## B. Khó Khăn
 ## C. Báo cáo chi tiết 
 ### 1. Code chi tiết
-
+https://github.com/anpham2k5/bao_cao_14_11/tree/master/STM32_ADC_Touch/src
 ### 2. Đo so sánh 2 mạch và tìm dải đo đẹp nhất
 - Tất cả lần đo đều rút sạc máy tính, rút những dây không dùng và đã khắc phục lỗi GND
 - Cùng 1 lớp điện môi đàn hồi
